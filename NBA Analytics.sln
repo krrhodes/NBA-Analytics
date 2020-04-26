@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Rim Protectors Intimidation", "..\Rim Protectors Intimidation\Rim Protectors Intimidation.pyproj", "{26351261-0DC0-49EE-91F9-05F29D59388F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Positions Categorization ML", "Positions_Categorization_ML\Positions Categorization ML.pyproj", "{99C7981F-D3DC-4DF6-B748-B128B62805C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26351261-0DC0-49EE-91F9-05F29D59388F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26351261-0DC0-49EE-91F9-05F29D59388F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C7981F-D3DC-4DF6-B748-B128B62805C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C7981F-D3DC-4DF6-B748-B128B62805C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47D1AF45-E864-472F-A8E4-DCC77DC20131}
+	EndGlobalSection
+EndGlobal
