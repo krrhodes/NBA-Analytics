@@ -11,7 +11,7 @@
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>Positions Categorization ML</Name>
-    <RootNamespace>Positions_Categorization_ML</RootNamespace>
+    <RootNamespace>Positions Categorization ML</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
